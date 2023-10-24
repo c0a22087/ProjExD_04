@@ -260,6 +260,7 @@ class Score:
 
 
 
+
 #　追加機能2
 class NeoGravity(pg.sprite.Sprite):
     """
